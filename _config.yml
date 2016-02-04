@@ -1,69 +1,40 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: http://www.novawebsolutions.ca
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Novaweb Solutions
+email: info@novawebsolutions.ca
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 2fc6f5
+  secondary: 2ba8f1  
+  secondary-dark: 2273f6
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Maxime Rouiller
   pic: 1
-  position: Lead Designer
+  position: "President & Founder"
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.twitter.com/MaximRouiller
     - title: stack-overflow
-      url: #
+      url: http://stackoverflow.com/users/24975/maxime-rouiller-mvp
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/NovawebSolutions
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 3320 rue des Lucines
+  - line: "Saint-Hubert, QC"
+  - line: J3Y 0H4
 
 # Build settings
 markdown: kramdown
