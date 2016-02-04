@@ -224,7 +224,9 @@ fieldset[disabled] .btn-xl.active {
     color: #fff;
     background-color: #{{ site.color.primary }};
 }
-
+.navbar-default .navbar-nav>li>a.text-primary {
+    color: #{{ site.color.primary }};
+}
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
